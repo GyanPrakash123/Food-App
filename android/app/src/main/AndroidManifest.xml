@@ -6,7 +6,7 @@ android:name="android.permission.ACCESS_FINE_LOCATION" />
    <uses-permission
 android:name="android.permission.ACCESS_COARSE_LOCATION" />
    <application
-        android:label="food_app"
+        android:label="Green Grocery"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <!--ye google map use karne ke liye daalna hai package ke readme section me likha hai aur issi me api key daalna hai-->
